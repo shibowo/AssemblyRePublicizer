@@ -7,10 +7,6 @@
   <Nullable>enable</Nullable>
 </PropertyGroup>
 
-<PropertyGroup>
-  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-</PropertyGroup>
-
 <ItemGroup>
   <Content Include="Licenses\AssemblyPublicizer.LICENSE.txt">
     <CopyToOutputDirectory>Always</CopyToOutputDirectory>
